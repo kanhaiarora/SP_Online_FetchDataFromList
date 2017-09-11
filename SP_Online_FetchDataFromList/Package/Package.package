@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="be5615a1-b168-4863-ae30-83f08d09c95d" 
+        solutionId="be5615a1-b168-4863-ae30-83f08d09c95d" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SP_Online_FetchDataFromList"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="4989a599-c4ab-4481-bc2a-437218abf2f2" />
+  </features>
+</package>
